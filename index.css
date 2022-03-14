@@ -1,0 +1,109 @@
+* {
+    max-width: auto;
+    min-width: auto;
+    padding: auto;
+    background-color: rgb(242, 253, 253);
+}
+#head1 {
+    text-align: center;
+    font-size: 40px;
+    color: black;   
+}
+.dv {
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    
+}
+.head2 {
+    text-align: center;
+    font-size: 30px;
+    color: black;  
+    
+}
+table {
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.colors2 {
+    background-color: MediumSpringGreen;   
+}
+.colors1 {
+    background-color: MediumAquamarine;   
+}
+.colors3 {
+    background-color: LightSeaGreen;   
+}
+.colors4 {
+    background-color: LightSalmon;    
+}
+.colors5 {
+    background-color: LightPink; 
+}
+.colors6 {
+    background-color: LightCoral;   
+}
+td, tr {
+    width: 300px;
+    height: 100px;
+    
+}
+#fon1 {
+    font-family: 'Hubballi', cursive;
+    margin-left: 20px;
+    text-align: left;
+}
+#fon2 {
+    font-family: 'League Gothic', sans-serif;
+    margin-left: 20px;
+    text-align: left;
+}
+#fon3 {
+    font-family: 'League Spartan', sans-serif;
+    margin-left: 20px;
+    text-align: left;
+}
+#fon4 {
+    font-family: 'Lora', serif;
+    margin-left: 20px;
+    text-align: left;
+}
+#fon5 {
+    font-family: 'M PLUS 1', sans-serif;
+    margin-left: 20px;
+    text-align: left;
+}
+#fon6 {
+    font-family: 'Playfair Display', serif;
+    margin-left: 20px;
+    text-align: left;
+}
+#fon7{
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 20px;
+    text-align: left;
+}
+#idh1 {
+    Font-weight: 700;
+    Font-size: 26px;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-left: 20px;
+   
+}
+#idh2 {
+    Font-weight: 700;
+    Font-size: 26px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 20px;
+    
+
+}
+#idh3 {
+    Font-weight: 400;
+    Font-size: 14px;
+    margin-left: 20px;
+    font-family: 'Poppins', sans-serif;
+}
